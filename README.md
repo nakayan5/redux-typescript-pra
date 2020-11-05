@@ -4,7 +4,7 @@
 `yarn add @types/react-redux`  
 
 Could not find a declaration file for module ‘react’. ‘/Users/username/projects/project-name/node_modules/react/index.js’ implicitly has an ‘any’ type.
-If the ‘react’ package actually exposes this module, consider sending a pull request to amend ’https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/type
+If the ‘react’ package actually exposes this module, consider sending a pull request to amend ’https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/type  
 `yarn add -D @types/react`
 
 
