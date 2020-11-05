@@ -17,3 +17,6 @@ https://cubic-bezier.com/
 
 - Redux Toolkit
 `$ npm install --save @reduxjs/toolkit  react-redux @types/react-redux`
+
+- React Hook Form  
+`$ npm install react-hook-form`
