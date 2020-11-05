@@ -9,4 +9,7 @@
 `$ npm install react-transition-group --save`  
 
 - cubic-bezier
-https://cubic-bezier.com/
+https://cubic-bezier.com/  
+
+- Redux Toolkit
+`$ npm install --save @reduxjs/toolkit  react-redux @types/react-redux`
