@@ -12,10 +12,10 @@ If the ‘react’ package actually exposes this module, consider sending a pull
 - React Transition Group  
 `$ npm install react-transition-group --save`  
 
-- cubic-bezier
+- cubic-bezier  
 https://cubic-bezier.com/  
 
-- Redux Toolkit
+- Redux Toolkit  
 `$ npm install --save @reduxjs/toolkit  react-redux @types/react-redux`
 
 - React Hook Form  
